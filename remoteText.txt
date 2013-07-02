@@ -1,3 +1,6 @@
-Enter file contents here
+﻿Enter file contents here
 
 이파일은 깃헙에서 직접 작성한 파일 입니다.
+
+
+깃으로 다운을 받고 수정하고 업로드해서 정상으로 올라가는지 테스트를 위한 문장.
